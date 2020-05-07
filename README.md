@@ -13,10 +13,16 @@ the APIs used in this project are:
 - List.js contain the code for showing the value of victims of COVID-19 (confirmed, recovered, deaths) in provinces in indonesia which is fetch from indonesia api.
 
 
-### 
+### how to use this app
 
 1. you need to clone this repositories and the go inside the foldr tha has been clone
 ```
-$ git clone https://github.com/rmotr/expo-project-barebones.git
+$ git clone https://github.com/JonathanLeopold/Final-Projct-mobdev-COVID-Tracker.git
+cd *(the location you clone this app)
 
+```
+2. run it on expo
+```
+*after you in the directories of the file
+npm start
 ```
